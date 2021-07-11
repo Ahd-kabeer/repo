@@ -1,21 +1,4 @@
-#answer 1
 
-def LEL(n = []):
-    print("largest  elements in the list is:-  "+ str(max(n)) )
-
-LEL(n = [21,45,99,78,56])
-
-# answer 2
-def LtEL(n=[]):
-    L1 = max(n)
-    list1 = n
-    list1.remove(max(list1))
-    L2 = max(list1)
-
-    print("largest 2 elements in the list are: "+str(L1)+" and "+str(L2))
-
-
-LtEL(n=[21,45,99,78,56])
 
 #answer 3
 

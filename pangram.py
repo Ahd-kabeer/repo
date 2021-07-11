@@ -20,7 +20,7 @@ def checkPangram(s):
 	return True
 
 # Driver Program to test above functions
-sentence = "The quick brown fox jumps over the little lazy dog"
+sentence = "Glib jocks quiz nymph to vex dwarf"
 
 if (checkPangram(sentence)):
 	print ("'"+ sentence+ "' is a pangram")

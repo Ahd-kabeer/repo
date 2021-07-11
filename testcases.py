@@ -12,7 +12,7 @@ class TestStringMethods(unittest.TestCase):
             print(math.sqrt(n))
             print(i)
             if n%i == 0:
-                return False
+                return False 
         return True
 
 k = TestStringMethods()
