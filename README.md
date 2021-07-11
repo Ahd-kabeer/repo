@@ -1,3 +1,2 @@
 # repo
-this is just an readme file 
-blah blah blah
+this repo created for a screentest for genskill or hamon technologies LLP
