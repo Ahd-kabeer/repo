@@ -15,12 +15,11 @@ def Nmaxelements(M, N):
         M.remove(max1)
         final_list.append(max1)
           
-    print(final_list)
+    return final_list
   
 # Driver code
 M = [2, 6, 41, 85, 0, 3, 7, 6, 10]
 N = 2
-
 # Calling the function
-Nmaxelements(M, N)
-
+x=Nmaxelements([-5, 6, 12, 2, 7], 3)
+print(x)
